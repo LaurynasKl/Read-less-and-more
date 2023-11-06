@@ -1,0 +1,14 @@
+.more-text{
+    display: none;
+}
+.more{
+    text-decoration: none;
+    font-weight: bold;
+    width: 100px;
+}
+.less{
+    width: 100px;
+    display: none;
+    text-decoration: none;
+    font-weight: bold;
+}
